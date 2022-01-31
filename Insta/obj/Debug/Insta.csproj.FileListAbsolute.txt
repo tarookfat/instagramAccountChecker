@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Insta.exe.config
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Insta.exe
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Insta.pdb
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Colorful.Console.dll
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Leaf.xNet.dll
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Leaf.xNet.xml
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Insta\Insta\obj\Debug\Insta.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Insta\Insta\obj\Debug\Insta.exe
+C:\Users\User\source\repos\Insta\Insta\obj\Debug\Insta.pdb
+C:\Users\User\source\repos\Insta\Insta\bin\Debug\Mono.HttpUtility.dll
+C:\Users\User\source\repos\Insta\Insta\obj\Debug\Insta.csproj.AssemblyReference.cache
